@@ -1,0 +1,112 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "HP Pavilion 14 Laptop",
+        "product_image": "https://i.ibb.co.com/86sc8gb/laptop-33521-1280.png",
+        "category": "Computers",
+        "price": 549.99,
+        "description": "14-inch HP Pavilion laptop with Intel Core i5 and 8GB RAM.",
+        "specifications": ["Screen Size: 14 inches", "Processor: Intel Core i5", "RAM: 8GB", "Storage: 256GB SSD"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "2",
+        "product_title": "Apple MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/xS6mcNZ/pexels-life-of-pix-7974.jpg",
+        "category": "Computers",
+        "price": 999.99,
+        "description": "Apple MacBook Air with M1 chip, 8GB RAM, and 256GB storage.",
+        "specifications": ["Screen Size: 13.3 inches", "Processor: Apple M1", "RAM: 8GB", "Storage: 256GB SSD"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "3",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/FBGTPgF/pexels-hammad-khalid-155549-1786433.jpg",
+        "category": "Phones",
+        "price": 699.99,
+        "description": "Samsung Galaxy S21 smartphone with 128GB storage and 8GB RAM.",
+        "specifications": ["Screen Size: 6.2 inches", "Processor: Exynos 2100", "RAM: 8GB", "Storage: 128GB"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "4",
+        "product_title": "Sony WH-1000XM4 Headphones",
+        "product_image": "https://i.ibb.co.com/zxDwfMt/headphones-8021022-1280.jpg",
+        "category": "Headphones",
+        "price": 348.00,
+        "description": "Sony WH-1000XM4 wireless noise-cancelling over-ear headphones.",
+        "specifications": ["Battery Life: 30 hours", "Noise Cancellation: Yes", "Bluetooth: Version 5.0"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "5",
+        "product_title": "Dell Inspiron 15",
+        "product_image": "https://i.ibb.co.com/1v0BwwK/pexels-life-of-pix-7974-1.jpg",
+        "category": "Computers",
+        "price": 579.99,
+        "description": "Dell Inspiron 15 with Intel Core i5, 8GB RAM, and 512GB SSD.",
+        "specifications": ["Screen Size: 15.6 inches", "Processor: Intel Core i5", "RAM: 8GB", "Storage: 512GB SSD"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "6",
+        "product_title": "Apple iPhone 12",
+        "product_image": "https://i.ibb.co.com/XjmL3KR/pexels-bertellifotografia-3036883.jpg",
+        "category": "Phones",
+        "price": 829.00,
+        "description": "Apple iPhone 12 with 64GB storage, 5G connectivity, and dual-camera system.",
+        "specifications": ["Screen Size: 6.1 inches", "Processor: A14 Bionic", "RAM: 4GB", "Storage: 64GB"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "7",
+        "product_title": "Bose QuietComfort 35 II",
+        "product_image": "https://i.ibb.co.com/SfnLG4k/frank-septillion-Qrspubmx6k-E-unsplash.jpg",
+        "category": "Headphones",
+        "price": 299.99,
+        "description": "Bose QuietComfort 35 II wireless noise-cancelling headphones.",
+        "specifications": ["Battery Life: 20 hours", "Noise Cancellation: Yes", "Bluetooth: Version 4.2"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "8",
+        "product_title": "Google Pixel 5",
+        "product_image": "https://i.ibb.co.com/0Zmkc0b/pexels-luckysam-47261.jpg",
+        "category": "Phones",
+        "price": 699.99,
+        "description": "Google Pixel 5 smartphone with 5G and 128GB storage.",
+        "specifications": ["Screen Size: 6 inches", "Processor: Snapdragon 765G", "RAM: 8GB", "Storage: 128GB"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "9",
+        "product_title": "Microsoft Surface Laptop Go",
+        "product_image": "https://i.ibb.co.com/Tht1bRz/pexels-hasanalbari-1229861.jpg",
+        "category": "Computers",
+        "price": 549.99,
+        "description": "Microsoft Surface Laptop Go with 10th Gen Intel Core i5 and 128GB SSD.",
+        "specifications": ["Screen Size: 12.4 inches", "Processor: Intel Core i5", "RAM: 8GB", "Storage: 128GB SSD"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "10",
+        "product_title": "Sennheiser HD 450BT",
+        "product_image": "https://i.ibb.co.com/2YvnSph/kenny-eliason-b-E3-a-Ft85-Y8-unsplash.jpg",
+        "category": "Headphones",
+        "price": 149.95,
+        "description": "Sennheiser HD 450BT wireless headphones with active noise cancellation.",
+        "specifications": ["Battery Life: 30 hours", "Noise Cancellation: Active", "Bluetooth: Version 5.0"],
+        "availability": true,
+        "rating": 4.4
+    }
+]
