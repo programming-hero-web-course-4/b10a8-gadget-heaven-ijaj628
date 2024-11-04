@@ -1,5 +1,6 @@
 import React from 'react';
 import bannerImg from '../../assets/banner.jpg'
+import Gadgets from '../Gadgets/Gadgets';
 
 const Home = () => {
     return (
@@ -11,13 +12,14 @@ const Home = () => {
                         <p className="py-6 text-slate-100">
                             Our Shop is the best for deal with.To buy reasonable prices visited our website.
                         </p>
-                        <button className="btn bg-white text-purple-700 font-bold">Shop Now</button>
+                        <button className="btn bg-white text-purple-700 font-bold rounded-full px-10">Shop Now</button>
                     </div>
                 </div>
             </div>
             <div>
-                <img className='w-[1000px] h-[600px] mx-auto rounded-3xl -mt-40 p-4 bg-white bg-opacity-50' src={bannerImg} alt="" />
+                <img className='w-[450px] h-[300px] lg:w-[1000px] lg:h-[600px] mx-auto rounded-3xl -mt-40 p-4 bg-white bg-opacity-50' src={bannerImg} alt="" />
             </div>
+            <Gadgets></Gadgets>
         </div>
     );
 };
