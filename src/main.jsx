@@ -11,6 +11,7 @@ import Home from './components/Home/Home';
 import Dashboard from './components/Dashboard/Dashboard';
 import Statistics from './components/Statistics/Statistics';
 import ViewDetails from './components/ViewDetails/ViewDetails';
+import About from './components/About/About';
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path: 'statistics',
         element: <Statistics></Statistics>,
+      },
+      {
+        path: 'about',
+        element: <About></About>,
       },
     ]
   },
