@@ -28,7 +28,7 @@ const ViewDetails = () => {
             <div className='p-8 border rounded-xl w-[1000px] bg-white ml-36 -mt-56'>
                 {
                     <div className='flex justify-around'>
-                        <img className='w-80' src={product?.product_image} alt="Gadget" />
+                        <img className='w-80 rounded-xl' src={product?.product_image} alt="Gadget" />
                         <div>
                             <h2 className='text-5xl font-bold mb-5'>{product?.product_title}</h2>
                             <p className='text-2xl font-bold mb-5'>Price: {product?.price}</p>
