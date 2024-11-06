@@ -18,7 +18,7 @@ const Gadget = ({ gadget }) => {
                     <h2 className="card-title">{product_title}</h2>
                     <p>Price: {price}k</p>
                     <div className="card-actions">
-                        <Link to={`gadget/${product_id}`}><button className="btn rounded-full px-8 bg-white text-purple-700 font-bold border-purple-700">View Details</button></Link>
+                        <Link to={`/gadget/${product_id}`}><button className="btn rounded-full px-8 bg-white text-purple-700 font-bold border-purple-700">View Details</button></Link>
                     </div>
                 </div>
             </div>
