@@ -7,8 +7,8 @@ const ViewDetails = () => {
     const data = useLoaderData();
     const id = parseInt(gadgetId);
 
-    const gadget = data.find(gadget => gadget.gadgetId == id);
-    console.log(gadget)
+    const gadget = data.find(gadget => gadget.gadgetId === id);
+    console.log(gadget, data, id)
 
     // const { gadgetId: image } = gadget;
 
